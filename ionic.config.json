@@ -1,0 +1,7 @@
+{
+  "name": "devActiveGmail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
